@@ -1,5 +1,4 @@
 # Stock_Analysis
-# Stock Performance Dashboard – README
 
 ## 📌 Problem Statement
 The Stock Performance Dashboard provides a comprehensive visualization and analysis of the Nifty 50 stocks’ performance over the past year. It utilizes daily stock data (open, close, high, low, and volume) to generate insights and highlight key metrics.
